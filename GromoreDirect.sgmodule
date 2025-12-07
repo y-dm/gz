@@ -1,0 +1,5 @@
+#!name=Gromore Direct
+#!desc=让 gromore.pangolin-sdk-toutiao.com 直连
+
+[Rule]
+DOMAIN,gromore.pangolin-sdk-toutiao.com,DIRECT
