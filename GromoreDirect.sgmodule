@@ -11,3 +11,6 @@ DOMAIN,huyafile.msstatic.com,REJECT
 DOMAIN,livewebbs2.msstatic.com,REJECT
 DOMAIN,business.msstatic.com,REJECT
 DOMAIN-SUFFIX,v1d.szbdyd.com,REJECT
+[URL Rewrite]
+^https?:\/\/cdn\.wup\.huya\.com\/launch\/queryHttpDns$ - reject
+^https?:\/\/business\.msstatic\.com\/advertiser\/material - reject
