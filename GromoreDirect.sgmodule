@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,v1d.szbdyd.com,REJECT
 
 [Map Local]
 ^https?:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/ data-type=tiny-gif status-code=200
-
 ^https?://live-ads\.huya\.com/live/getAllEntrance.*$ data-type=text data="{}" status-code=200 header="Content-Type:application/json"
 
 [MITM]
