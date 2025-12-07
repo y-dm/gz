@@ -3,3 +3,11 @@
 
 [Rule]
 DOMAIN,gromore.pangolin-sdk-toutiao.com,DIRECT
+
+虎牙直播
+DOMAIN,pp-cdnfile2pcdn.msstatic.com,REJECT
+DOMAIN,livewebbs2pcdn.msstatic.com,REJECT
+DOMAIN,huyafile.msstatic.com,REJECT
+DOMAIN,livewebbs2.msstatic.com,REJECT
+DOMAIN,business.msstatic.com,REJECT
+DOMAIN-SUFFIX,v1d.szbdyd.com,REJECT
